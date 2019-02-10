@@ -7,4 +7,4 @@ end. You'd get windows like feeling while using this.
 This would run on all Unix/Linux systems. You can compile and
 start using it or tweaking it according to you.
 
-![demo](Peek 2019-02-10 21-39.gif)
+![demo](demo.gif)
