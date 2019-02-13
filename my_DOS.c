@@ -41,7 +41,7 @@ void get_current_directory(char *pwd)
         int index, index2 = 0;
         char directory[80];
         getcwd(directory, sizeof directory);
-        index = strlen("/home/rohan/");
+        index = strlen("/home/prashant/");
         while (directory[index] != '\0')
         {
                 if (directory[index] == '/')
